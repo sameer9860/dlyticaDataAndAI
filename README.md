@@ -12,7 +12,7 @@ How to use
 
 ```bash
 git clone https://github.com/sameer9860/dlyticaDataAndAI.git
-cd dlyticaDataAndAI/Python
+cd dlyticaDataAndAI
 ```
 
 - Run Python examples locally:
