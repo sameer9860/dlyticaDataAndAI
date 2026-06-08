@@ -1,5 +1,5 @@
 # Name: Samir Khatiwada
-# Assignment 1 — Student Grade Analyser
+# Assignment 1  Student Grade Analyser
 # Date: 08 June 2026
 
 def letter_grade(score):
