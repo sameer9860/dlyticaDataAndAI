@@ -67,8 +67,6 @@ try:
     b1.borrow()
     b2.borrow()
 
-
-
     print("=" * 40)
     print("Library Book Catalogue")
     print("=" * 40)
